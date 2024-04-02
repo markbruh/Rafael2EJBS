@@ -21,3 +21,17 @@
     background-color:black;
 
  }
+
+ .primeira-parte{
+      background-image: linear-gradient(#424E61,white);
+      height: 500px;
+     padding: 100px;
+     color: white 
+
+ }
+ .primeiro-paragrafo{
+     padding: 15x;
+ }
+ .segundo-paragrafo{
+     padding: 15x;
+ }

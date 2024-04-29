@@ -42,3 +42,10 @@
 width: 25%;
 
  }
+
+ .titulo-estudante{
+display:flex;
+align-items: center;
+justify-content: space-around;
+
+ }
